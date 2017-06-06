@@ -1,0 +1,9 @@
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotations\bin\Debug\CustomAnnotations.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotations\bin\Debug\CustomAnnotations.pdb
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotations\obj\Debug\CustomAnnotations.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotations\obj\Debug\CustomAnnotations.pdb
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotations\bin\Debug\CustomAnnotations.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotations\bin\Debug\CustomAnnotations.pdb
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotations\obj\Debug\CustomAnnotations.csprojResolveAssemblyReference.cache
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotations\obj\Debug\CustomAnnotations.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotations\obj\Debug\CustomAnnotations.pdb

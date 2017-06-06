@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="hzwebforms" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\IIT\ CLASS\\current\ semester\\ITMD\ -\ 463\ Intermediate\ Web\ App\ Develop\\Assignments\\AASP\.NET\ web\ Forms\\Submit\\MyWebFormsProject\\MyWebFormsProject\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\IIT\ CLASS\\current\ semester\\ITMD\ -\ 463\ Intermediate\ Web\ App\ Develop\\Assignments\\AASP\.NET\ web\ Forms\\Submit\\MyWebFormsProject\\MyWebFormsProject\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MyWebFormsProject-Web.config Connection String" description="" value="Data Source=tcp:mywebformsproject.database.windows.net,1433;Initial Catalog=MyWebFormsProject;User ID=sqladmin@mywebformsproject.database.windows.net;Password=IITjiang@791" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\IIT\ CLASS\\current\ semester\\ITMD\ -\ 463\ Intermediate\ Web\ App\ Develop\\Assignments\\AASP\.NET\ web\ Forms\\Submit\\MyWebFormsProject\\MyWebFormsProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyWebFormsProject']/@connectionString" />
+  </parameter>
+</parameters>

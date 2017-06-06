@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleAssignment", "ModuleAssignment\ModuleAssignment.csproj", "{12AB9F80-686B-41ED-B602-605C0ABE4A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleAssignment.Tests", "ModuleAssignment.Tests\ModuleAssignment.Tests.csproj", "{212E8250-E9F5-4BD3-9722-61FA7680EBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12AB9F80-686B-41ED-B602-605C0ABE4A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AB9F80-686B-41ED-B602-605C0ABE4A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AB9F80-686B-41ED-B602-605C0ABE4A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AB9F80-686B-41ED-B602-605C0ABE4A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212E8250-E9F5-4BD3-9722-61FA7680EBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212E8250-E9F5-4BD3-9722-61FA7680EBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212E8250-E9F5-4BD3-9722-61FA7680EBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212E8250-E9F5-4BD3-9722-61FA7680EBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

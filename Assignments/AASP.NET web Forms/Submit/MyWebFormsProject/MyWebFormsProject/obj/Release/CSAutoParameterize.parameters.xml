@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MyWebFormsProject-Web.config Connection String" description="MyWebFormsProject Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\ProjectsV13;           Initial Catalog=MyWebFormsProject;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\IIT\ CLASS\\current\ semester\\ITMD\ -\ 463\ Intermediate\ Web\ App\ Develop\\Assignments\\AASP\.NET\ web\ Forms\\Submit\\MyWebFormsProject\\MyWebFormsProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyWebFormsProject']/@connectionString" />
+  </parameter>
+</parameters>

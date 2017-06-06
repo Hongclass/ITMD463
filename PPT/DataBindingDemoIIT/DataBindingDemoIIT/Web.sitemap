@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Data Access Options" description="Data Access Options" >
+    <siteMapNode title="Data Bound Control" description="Our products"
+         url="~/DBC.aspx">
+      <siteMapNode title="List Controls"
+           description="Controls for displaying Lists"
+           url="~/LC.aspx" />
+      <siteMapNode title="Single Record"
+           description="Controls for displaying single record"
+           url="~/SR.aspx" />
+      <siteMapNode title="Model Bound Controls"
+       description="TemplateField, BoundField, and DynamicField Controls"
+       url="~/TBD.aspx" />
+      <siteMapNode title="DynamicControl Control"
+       description="Auto format and validation using DataAnnotations attributes "
+       url="~/DC.aspx" />
+
+
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

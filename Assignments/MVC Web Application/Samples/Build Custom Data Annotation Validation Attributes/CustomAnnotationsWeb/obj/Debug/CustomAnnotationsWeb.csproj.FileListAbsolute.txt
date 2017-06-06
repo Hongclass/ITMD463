@@ -1,0 +1,45 @@
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\CustomAnnotationsWeb.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\CustomAnnotationsWeb.pdb
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\Antlr3.Runtime.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.Mvc.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.Optimization.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.Razor.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.WebPages.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.WebPages.Razor.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\WebGrease.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.Mvc.xml
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.Razor.xml
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.WebPages.xml
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\System.Web.WebPages.Razor.xml
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\obj\Debug\CustomAnnotationsWeb.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\obj\Debug\CustomAnnotationsWeb.pdb
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\CustomAnnotations.dll
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\bin\CustomAnnotations.pdb
+E:\Projektit\MasaSam Annotations Sample\CustomAnnotationsWeb\obj\Debug\CustomAnnotationsWeb.csprojResolveAssemblyReference.cache
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\CustomAnnotationsWeb.dll.config
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\CustomAnnotationsWeb.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\CustomAnnotationsWeb.pdb
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\Antlr3.Runtime.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\CustomAnnotations.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.Mvc.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.Optimization.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.Razor.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.WebPages.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\WebGrease.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\CustomAnnotations.pdb
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.Mvc.xml
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.Razor.xml
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.WebPages.xml
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\obj\Debug\CustomAnnotationsWeb.csprojResolveAssemblyReference.cache
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\obj\Debug\CustomAnnotationsWeb.dll
+C:\Users\Hong\Desktop\Build Custom Data Annotation Validation Attributes\CustomAnnotationsWeb\obj\Debug\CustomAnnotationsWeb.pdb

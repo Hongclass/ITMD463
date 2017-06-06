@@ -1,0 +1,63 @@
+﻿@model IEnumerable<MyMVCProject.Models.Assignment>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Event.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Event.StartDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Event.EndDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Event.Location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Volunteer.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Volunteer.FirstName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Event.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Event.StartDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Event.EndDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Event.Location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Volunteer.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Volunteer.FirstName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AssignmentID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AssignmentID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AssignmentID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="VolunteerData_1Entities-Web.config Connection String" description="VolunteerData_1Entities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.ProjectModel.csdl|res://*/Models.ProjectModel.ssdl|res://*/Models.ProjectModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=(localdb)\ProjectsV13;initial catalog=VolunteerData_1;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\JJ\\Documents\\Visual\ Studio\ 2015\\Projects\\MyMVCProject\\MyMVCProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='VolunteerData_1Entities']/@connectionString" />
+  </parameter>
+</parameters>
